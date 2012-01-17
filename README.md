@@ -11,6 +11,12 @@ The SOPA Blackout plugin for Redmine and ChiliProject allows you to easily show 
 
 Check out the [SOPA Blackout website](http://sopablackout.org).
 
+## Note ##
+
+The plugin can be installed before 18th January. It shows the black screen only on 18th January 2012!
+
+Please also note that the black screen is not shown for admin users!
+
 ## Installation ##
 
 This section describes how to install the plugin.
