@@ -9,5 +9,5 @@ Redmine::Plugin.register :sopa_blackout_plugin do
     author 'Andriy Lesyuk'
     author_url 'http://www.andriylesyuk.com/'
     description 'The SOPA Blackout plugin for Redmine allows you to easily show your support on SOPA Blackout Day.'
-    version '0.0.1'
+    version '0.0.2'
 end
